@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist
+coverage
+.next
+backend/data/tasks.db
+backend/data/tasks.db-shm
+backend/data/tasks.db-wal
+frontend/node_modules
+backend/node_modules
